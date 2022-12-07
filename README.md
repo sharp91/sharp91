@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sharp91
-- 👀 I’m interested in becoming a software developer.
-- 🌱 I’m currently learning python and frontend web dev.
-- 💞️ I’m looking to collaborate on anything python related
+- 👀 I’m interested in becoming a Software Developer.
+- 🌱 I’m currently learning Python and frontend web dev.
+- 💞️ I’m looking to collaborate on anything Python related
